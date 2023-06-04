@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nomanskid/Rainbow-Freinds-D8rk/main/Lol%20D8rk%20Gui"))();;
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Nomanskid/Rainbow-Freinds-D8rk/main/Lol%20D8rk%20Gui", true))()
 --Please Dont use the source code otherwise you may be using an outdated one!
 --Pretty good gui!
